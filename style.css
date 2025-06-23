@@ -1,0 +1,84 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+
+body {
+font-family: 'Poppins', sans-serif;
+}
+
+.text {
+  color: darkorange;
+}
+
+.text2 {
+  color: grey;
+}
+
+.secondFtr{
+ background: url('/Images/banner-h4\ \(1\).jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 70vh;
+  width: 100%;
+}
+.carousel-item1 {
+
+  background: url('/Images/slide1-h4.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.carousel-item2 {
+
+  background: url('/Images/slide2-h4.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+} 
+
+@media(max-width: 320px) {
+  
+  .navbar-brand {
+    display: none;
+  }
+
+  nav{
+    padding: 0%;
+  }
+
+  
+}
+
+@media (min-width: 321px) and (max-width: 420px) {
+  
+
+  .navbar-brand {
+    display: none;
+  }
+
+  nav{
+    padding: 0%;
+  }
+
+}
+
+@media (min-width: 421px) and (max-width: 767px) {
+
+.hide-icons-mid {
+    display: none !important;
+  }
+
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+
+.hide-icons-mid {
+    display: none !important;
+  }
+
+}
