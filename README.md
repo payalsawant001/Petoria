@@ -6,8 +6,7 @@ Welcome to **Petoria**, a clean and modern pet shop website built with **HTML5**
 
 ## 🔗 Check Live Demo
 
-👉 **[Live Demo Here](https://yourusername.github.io/Petoria)**  
-_(Replace with your actual GitHub Pages link after deployment)_
+👉 **[Live Demo Here](https://petoria.netlify.app/)**  
 
 ---
 
